@@ -6,6 +6,6 @@
   "description": "Create a lightweight virtual note from a File Explorer context menu; the new note embeds the original without extra metadata.",
   "author": "Keith Pieper",
   "authorUrl": "https://www.keithpieper.com",
-  "isDesktopOnly": false,
+  "isDesktopOnly": false
 }
 
