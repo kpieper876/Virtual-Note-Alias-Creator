@@ -1,8 +1,8 @@
 {
   "id": "virtual-note-alias",
   "name": "Virtual Note (Alias) Creator",
-  "version": "1.5.1",
-  "minAppVersion": "1.5.1",
+  "version": "1.5.2",
+  "minAppVersion": "1.5.2",
   "description": "Create a lightweight virtual note from a File Explorer context menu; the new note embeds the original without extra metadata.",
   "author": "Keith Pieper",
   "authorUrl": "https://www.keithpieper.com",
